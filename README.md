@@ -1,3 +1,7 @@
+======================================================
+Work in progress: translating the sheetbook in italian!
+======================================================
+
 This is the central place to manage the Rhythms of Resistance tunesheets. The website and other places link to the generated files in this repository.
 
 [`front.svg`](./front.svg) and [`back.svg`](./back.svg) contain the front and back cover. A `[month]` placeholder can be used to automatically fill in the current month+year.
