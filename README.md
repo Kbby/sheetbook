@@ -1,6 +1,5 @@
-======================================================
-Work in progress: translating the sheetbook in italian!
-======================================================
+### Work in progress: translating the sheetbook in italian!
+
 
 This is the central place to manage the Rhythms of Resistance tunesheets. The website and other places link to the generated files in this repository.
 
